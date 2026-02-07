@@ -1,5 +1,5 @@
 #  Hey!
-I'm Stefano 
+I'm Stefano, 
 I'm a Frontend React Developer focused on building clean, accessible, and efficient web applications.
 I work mainly with React, JavaScript, HTML, CSS, and Tailwind CSS, and I enjoy transforming ideas and designs into functional, user-friendly interfaces.
 
