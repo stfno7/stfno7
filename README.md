@@ -1,7 +1,9 @@
 #  Hey!
 I'm Stefano. 
-i'm a Frontend React Developer focused on building clean, accessible, and efficient web applications.
-I work mainly with React, JavaScript, HTML, CSS, and Tailwind CSS, and I enjoy transforming ideas and designs into functional, user-friendly interfaces.
+
+Frontend React Developer focused on building clean, accessible, and efficient web applications.
+
+My main tech stack is React, JavaScript and Tailwind CSS. My favorite tools are Figma (Oriented to UX/UI system layouts, prototyping) and Adobe Photoshop (specifically CS6)
 
 
 ##  Lets keep in touch
